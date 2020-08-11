@@ -1,0 +1,12 @@
+{
+  "name": "tesLogin",
+  "displayName": "tesLogin",
+  "expo": {
+    "name": "tesLogin",
+    "slug": "tesLogin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
